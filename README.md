@@ -1,2 +1,3 @@
 # LineGet
-For LineGet Project. Issue and Feature request.
+
+An Powerfull and Modernized Downloading Tools.
